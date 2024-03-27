@@ -72,7 +72,7 @@ L3on@MacBook:Generate-Sample-Image$ python generate_sample_image.py
     <img src="https://github.com/L3onSW/Generate-Sample-Image/blob/main/sample_image/black1.png" alt="black1.png" width="200"> <img src="https://github.com/L3onSW/Generate-Sample-Image/blob/main/sample_image/black2.png" alt="black2.png" width="200"> <img src="https://github.com/L3onSW/Generate-Sample-Image/blob/main/sample_image/black3.png" alt="black3.png" width="200">
 </p>
 <p align="center">
-    <img src="https://github.com/L3onSW/Generate-Sample-Image/blob/main/sample_image/light blue1.png" alt="light blue1.png" width="200"> <img src="https://github.com/L3onSW/Generate-Sample-Image/blob/main/sample_image/light blue.png" alt="light blue2.png" width="200"> <img src="https://github.com/L3onSW/Generate-Sample-Image/blob/main/sample_image/light blue3.png" alt="light blue3.png" width="200">
+    <img src="https://github.com/L3onSW/Generate-Sample-Image/blob/main/sample_image/light blue1.png" alt="light blue1.png" width="200"> <img src="https://github.com/L3onSW/Generate-Sample-Image/blob/main/sample_image/light blue2.png" alt="light blue2.png" width="200"> <img src="https://github.com/L3onSW/Generate-Sample-Image/blob/main/sample_image/light blue3.png" alt="light blue3.png" width="200">
 </p>
 </details>
 
