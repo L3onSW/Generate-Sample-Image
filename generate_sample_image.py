@@ -20,7 +20,7 @@ rcParams['font.sans-serif'] = ['Hiragino Maru Gothic Pro',
                                'Noto Sans CJK JP']
 
 # 全色共通で各色ごとに生成する画像の枚数
-num = 10
+num = 3
 # RGBのタプルを順に格納したリスト(ただし白色の文字を挿入して見やすい色を選択)
 rgb_list = []
 # RGBのタプルを順に格納したリストに対応した色の名前(ただし1文字の漢字で統一)
